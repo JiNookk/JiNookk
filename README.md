@@ -2,11 +2,9 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
-- ⭐️ &nbsp; 같이 일하기 즐거운 개발자 오진욱입니다! <br/>
-- 🔭 &nbsp; 현재 풀스택 웹개발공부를 진행하고 있습니다. <br/>
-- 🤔 &nbsp; 있어빌리티가 아닌 실제 본질적인 웹개발 기술을 연습합니다. <br/>
-- 💼 &nbsp; 웹 프론트엔드, 백엔드 전반을 공부하고 있습니다. <br/>
-- ✍️ &nbsp; 기타와 요리를 취미로 가지고 있습니다. <br/>
+- ⭐️ &nbsp; 있어빌리티가 아닌 실제 본질적인 웹개발 기술을 연습합니다. <br/>
+- 🔭 &nbsp; 현재 풀스택 웹 엔지니어가 되기 위해 공부하고 있습니다. <br/>
+- ☕️ &nbsp; 취미로 요리와🍳 기타연주를🎸 하고있습니다. <br/>
 
 <h3>🛠 Tech Stack</h3>
 
