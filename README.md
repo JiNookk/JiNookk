@@ -1,5 +1,5 @@
 <h2> Developer 오진욱! 👋🏻 <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 - ⭐️ &nbsp; 있어빌리티가 아닌 실제 본질적인 웹개발 기술을 연습합니다. <br/>
