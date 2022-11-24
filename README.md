@@ -2,13 +2,12 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
-- ⭐️ &nbsp; 있어빌리티가 아닌 실제 본질적인 웹개발 기술을 연습합니다. <br/>
-- 🔭 &nbsp; 현재 풀스택 웹 엔지니어가 되기 위해 공부하고 있습니다. <br/>
-- ☕️ &nbsp; 취미로 요리와🍳 기타연주를🎸 하고있습니다. <br/>
+- 함께 성장하는 것을 지향합니다.
+- 견고한 테스트를 통해 안정적인 코드를 만들어내는 개발자입니다.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Node.js | Java  
+- 💻 &nbsp;  Java   
 - 🌐 &nbsp;  HTML | CSS | JavaScript | React
 - 🔧 &nbsp; Visual Studio code | Git
 
