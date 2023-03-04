@@ -8,7 +8,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp;  Java   
+- 💻 &nbsp;  Java | Spring   
 - 🌐 &nbsp;  HTML | CSS | JavaScript | React
 - 🔧 &nbsp; Visual Studio code | Git
 
