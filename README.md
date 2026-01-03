@@ -15,9 +15,5 @@
 
 <br>
 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiNookk&show_icons=true&theme=dark)
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 <a href="ojw0828@naver.com"></a>
