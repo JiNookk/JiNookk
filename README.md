@@ -1,19 +1,6 @@
-<h2> Developer 오진욱! 👋🏻 
+## 오진욱 | Backend Engineer
 
+Node.js/TypeScript 백엔드 개발자입니다.
+B2B SaaS에서 성능 최적화와 시스템 안정화 경험이 있습니다.
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 함께 성장하는 것을 지향합니다. 
-- 견고한 테스트를 통해 안정적인 코드를 만들어내는 개발자입니다.
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp;  Java | Spring   
-- 🌐 &nbsp;  HTML | CSS | JavaScript | React
-- 🔧 &nbsp; Visual Studio code | Git
-
-
-<br>
-
-<h3> 🤝🏻 Connect with Me </h3>
-<a href="ojw0828@naver.com"></a>
+🛠 Node.js, TypeScript, NestJS, MySQL, AWS
